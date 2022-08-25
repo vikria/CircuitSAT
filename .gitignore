@@ -1,3 +1,9 @@
+# Local
+cmake-build-debug
+cmake-build-release
+.venv
+.idea
+
 # Prerequisites
 *.d
 

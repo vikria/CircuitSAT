@@ -1,0 +1,15 @@
+INPUT(1)
+INPUT(2)
+
+OUTPUT(4)
+
+f_3 = AND(1, 2)
+f_5 = AND(2, 3)
+INPUT(3)
+f_7 = NOT(3)
+6 = XOR(f_9, 5)
+11 = NOT(f_7)
+f_9 = NOT(f_3)
+5 = OR(f_5, f_7)
+4 = NOT(6)
+10 = OR(1, 2)

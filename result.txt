@@ -1,0 +1,1 @@
+./example/test.bench -- 12; 10 => SAT
